@@ -1,1 +1,0 @@
--- Airbnb SQL Analysis
