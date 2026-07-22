@@ -127,7 +127,7 @@ Airbnb-Data-Analytics
 
 ## 🏠 Executive Overview
 
-![Executive Overview](Images/dashboard_page1.png)
+![Executive Overview](Images/p1.jpg)
 
 
 ---
@@ -136,13 +136,13 @@ Airbnb-Data-Analytics
 
 ## 💰 Pricing & Availability Analysis
 
-![Pricing Dashboard](Images/dashboard_page2.png)
+![Pricing Dashboard](Images/p2.jpg)
 
 ---
 
 ## 🏘️ Host & Neighbourhood Insights
 
-![Host Dashboard](Images/dashboard_page3.png)
+![Host Dashboard](Images/p3.jpg)
 
 ---
 
